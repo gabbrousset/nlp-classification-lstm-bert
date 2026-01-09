@@ -4,6 +4,11 @@ McGill COMP 551 - Mini-Project 4: Comparative study of LSTM (implemented from sc
 * Gabriel Caballero (261108565)
 * Adam Dufour (261193949)
 
+
+![model comparison](figures/model_comparison.png)
+Model accuracies across two tasks.
+
+
 ## Prerequisites
 * Python 3.8+ (we are using python 3.12)
 * Packages in requirements.txt
