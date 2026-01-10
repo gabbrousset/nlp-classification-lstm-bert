@@ -6,8 +6,10 @@ McGill COMP 551 - Mini-Project 4: Comparative study of LSTM (implemented from sc
 
 
 ![model comparison](figures/model_comparison.png)
-Model accuracies across two tasks.
 
+![domain-tSNE](figures/Domain_tSNE.png)
+
+![domain-confusion-matrix](figures/Domain_Confusion_Matrix.png)
 
 ## Prerequisites
 * Python 3.8+ (we are using python 3.12)
